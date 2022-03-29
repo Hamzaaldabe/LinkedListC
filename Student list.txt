@@ -1,0 +1,162 @@
+---------------
+COMPILER CONSTRUCTION - COMP439
+---------------
+1118759 Mark Ruffalo
+1118764 Matt Damon
+1137632 Deema Ahmad
+1142578 Mark Walhlberg
+1156784 Jennifer Lawrance
+---------------
+SOFTWARE ENGINEERING - COMP433
+---------------
+---------------
+OPERATING SYSTEMS - COMP431
+---------------
+---------------
+GRADUATION PROJECT - COMP4300
+---------------
+---------------
+INTRODUCTION TO GRADUATION PROJECT - COMP4200
+---------------
+---------------
+ARTIFICIAL INTELLIGENCE - COMP338
+---------------
+1118759 Mark Ruffalo
+1118764 Matt Damon
+1126548 Shailene Woodley
+1126573 Ellen Page
+1159999 Ahmad Ali
+---------------
+CONTENT CREATION - COMP3361
+---------------
+1118759 Mark Ruffalo
+1130022 Khaled Sabri
+1143256 Emilia Clarke
+---------------
+ANIMATION - COMP3351
+---------------
+1126573 Ellen Page
+---------------
+WEB APPLICATION AND TECHNOLOGY - COMP334
+---------------
+1126548 Shailene Woodley
+1137632 Deema Ahmad
+---------------
+DATABASE SYSTEMS - COMP333
+---------------
+1019876 Johnny Depp
+---------------
+HUMAN COMPUTER INTERACTION - COMP332
+---------------
+---------------
+LINUX OPERATING SYSTEMS LAB - COMP311
+---------------
+1019876 Johnny Depp
+1118764 Matt Damon
+1134321 Huda Jameel
+1140932 Tuqa Nawareh
+1143256 Emilia Clarke
+1156666 Jon Snow
+1159873 Hala Salameh
+---------------
+DATA STRUCTURES - COMP2421
+---------------
+1118759 Mark Ruffalo
+1126573 Ellen Page
+1130022 Khaled Sabri
+1135632 Miles Teller
+1136578 Tom Hardy
+1137632 Deema Ahmad
+1140001 Shahd Bashar
+1142578 Mark Walhlberg
+---------------
+SERIOUS GAMING FUNDAMENTALS - COMP2331
+---------------
+1126573 Brad Pitt
+1130043 Yara Basel
+---------------
+DISCRETE MATHEMATICS - COMP233
+---------------
+1019876 Johnny Depp
+1136578 Daniel Radcliffe
+1143896 Hani Saleh
+1154936 Muna Rami
+1159832 Seema Quraan
+---------------
+DATA STRUCTURES - COMP2321
+---------------
+---------------
+ADVANCED PROGRAMMING - COMP231
+---------------
+1127632 Rinad Ahmad
+1136578 Tom Hardy
+1139999 Amal Mohammad
+---------------
+COMPUTER AND PROGRAMMING - COMP230
+---------------
+1136578 Daniel Radcliffe
+1146574 Natalie Portman
+1148425 Mahmod Odeh
+---------------
+COMPUTER AND PROGRAMMING - COMP142
+---------------
+1126573 Brad Pitt
+1130043 Yara Basel
+1136754 Aseel Jubeh
+1146542 Kevin Hart
+---------------
+INTRODUCTION TO COMPUTERS AND COMPUTING ETHICS - COMP131
+---------------
+1127632 Rinad Ahmad
+1129745 Saleh Kharoubi
+1130043 Yara Basel
+1134321 Huda Jameel
+---------------
+INTRODUCTION TO COMPUTER - COMP122
+---------------
+1111111 Wael Remawi
+1129745 Saleh Kharoubi
+1136578 Daniel Radcliffe
+1136754 Aseel Jubeh
+1150683 Reem Naqeeb
+1153957 Taim Tamimi
+---------------
+INTRODUCTION TO COMPUTER - COMP121
+---------------
+1134321 Huda Jameel
+1145213 Donia Khaled
+1148425 Mahmod Odeh
+1153256 Fadi Awwad
+1153957 Taim Tamimi
+1159832 Seema Quraan
+1159873 Hala Salameh
+---------------
+Introduction to programming - COMP133
+---------------
+1111111 Wael Remawi
+1136578 Tom Hardy
+1137632 Deema Ahmad
+1145283 Rawand Sbeh
+1153957 Taim Tamimi
+1154936 Muna Rami
+1169876 Emma Stone
+---------------
+Algorithms - COMP336
+---------------
+1135632 Keira Knightly
+1136578 Tom Hardy
+1139999 Amal Mohammad
+1140932 Tuqa Nawareh
+1145213 Donia Khaled
+1146542 Kevin Hart
+1146574 Natalie Portman
+---------------
+Data Structures Java - COMP242
+---------------
+1019876 Johnny Depp
+1118759 Mark Ruffalo
+1135632 Keira Knightly
+1136578 Tom Hardy
+1139999 Amal Mohammad
+1146542 Kevin Hart
+1159999 Ahmad Ali

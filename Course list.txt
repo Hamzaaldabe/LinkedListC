@@ -1,0 +1,175 @@
+Course name: ADVANCED PROGRAMMING
+Course ID: COMP231
+Year : 113
+max # of students: 20
+# of enrolled students: 3
+# of students in waiting list: 0
+---------------
+Course name: ANIMATION
+Course ID: COMP3351
+Year : 112
+max # of students: 10
+# of enrolled students: 1
+# of students in waiting list: 0
+---------------
+Course name: ARTIFICIAL INTELLIGENCE
+Course ID: COMP338
+Year : 115
+max # of students: 10
+# of enrolled students: 5
+# of students in waiting list: 0
+---------------
+Course name: Algorithms
+Course ID: COMP336
+Year : 114
+max # of students: 20
+# of enrolled students: 7
+# of students in waiting list: 0
+---------------
+Course name: COMPILER CONSTRUCTION
+Course ID: COMP439
+Year : 115
+max # of students: 10
+# of enrolled students: 5
+# of students in waiting list: 0
+---------------
+Course name: COMPUTER AND PROGRAMMING
+Course ID: COMP230
+Year : 114
+max # of students: 13
+# of enrolled students: 3
+# of students in waiting list: 0
+---------------
+Course name: COMPUTER AND PROGRAMMING
+Course ID: COMP142
+Year : 115
+max # of students: 15
+# of enrolled students: 4
+# of students in waiting list: 0
+---------------
+Course name: CONTENT CREATION
+Course ID: COMP3361
+Year : 114
+max # of students: 12
+# of enrolled students: 3
+# of students in waiting list: 0
+---------------
+Course name: DATA STRUCTURES
+Course ID: COMP2421
+Year : 114
+max # of students: 15
+# of enrolled students: 8
+# of students in waiting list: 0
+---------------
+Course name: DATA STRUCTURES
+Course ID: COMP2321
+Year : 114
+max # of students: 13
+# of enrolled students: 0
+# of students in waiting list: 0
+---------------
+Course name: DATABASE SYSTEMS
+Course ID: COMP333
+Year : 112
+max # of students: 10
+# of enrolled students: 1
+# of students in waiting list: 0
+---------------
+Course name: DISCRETE MATHEMATICS
+Course ID: COMP233
+Year : 115
+max # of students: 10
+# of enrolled students: 5
+# of students in waiting list: 0
+---------------
+Course name: Data Structures Java
+Course ID: COMP242
+Year : 115
+max # of students: 20
+# of enrolled students: 7
+# of students in waiting list: 0
+---------------
+Course name: GRADUATION PROJECT
+Course ID: COMP4300
+Year : 114
+max # of students: 20
+# of enrolled students: 0
+# of students in waiting list: 0
+---------------
+Course name: HUMAN COMPUTER INTERACTION
+Course ID: COMP332
+Year : 113
+max # of students: 9
+# of enrolled students: 0
+# of students in waiting list: 0
+---------------
+Course name: INTRODUCTION TO COMPUTER
+Course ID: COMP122
+Year : 115
+max # of students: 20
+# of enrolled students: 6
+# of students in waiting list: 0
+---------------
+Course name: INTRODUCTION TO COMPUTER
+Course ID: COMP121
+Year : 115
+max # of students: 15
+# of enrolled students: 7
+# of students in waiting list: 0
+---------------
+Course name: INTRODUCTION TO COMPUTERS AND COMPUTING ETHICS
+Course ID: COMP131
+Year : 113
+max # of students: 25
+# of enrolled students: 4
+# of students in waiting list: 0
+---------------
+Course name: INTRODUCTION TO GRADUATION PROJECT
+Course ID: COMP4200
+Year : 116
+max # of students: 10
+# of enrolled students: 0
+# of students in waiting list: 0
+---------------
+Course name: Introduction to programming
+Course ID: COMP133
+Year : 116
+max # of students: 27
+# of enrolled students: 7
+# of students in waiting list: 0
+---------------
+Course name: LINUX OPERATING SYSTEMS LAB
+Course ID: COMP311
+Year : 115
+max # of students: 7
+# of enrolled students: 7
+# of students in waiting list: 8
+---------------
+Course name: OPERATING SYSTEMS
+Course ID: COMP431
+Year : 112
+max # of students: 10
+# of enrolled students: 0
+# of students in waiting list: 0
+---------------
+Course name: SERIOUS GAMING FUNDAMENTALS
+Course ID: COMP2331
+Year : 113
+max # of students: 20
+# of enrolled students: 2
+# of students in waiting list: 0
+---------------
+Course name: SOFTWARE ENGINEERING
+Course ID: COMP433
+Year : 113
+max # of students: 15
+# of enrolled students: 0
+# of students in waiting list: 0
+---------------
+Course name: WEB APPLICATION AND TECHNOLOGY
+Course ID: COMP334
+Year : 113
+max # of students: 15
+# of enrolled students: 2
+# of students in waiting list: 0
+---------------
